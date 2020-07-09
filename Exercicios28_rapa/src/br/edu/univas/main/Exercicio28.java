@@ -26,7 +26,7 @@ public class Exercicio28 {
 				if (numerosSort[i] == numerosApost[j]) {
 					
 					contador++;
-					
+					System.out.println("Caiu na vila, o peixe fuzila");
 				}
 			}
 		
