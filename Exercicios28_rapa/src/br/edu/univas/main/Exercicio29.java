@@ -36,6 +36,7 @@ public class Exercicio29 {
 		media = media/12;
 		System.out.println("A média da temperatura anuel é: " + media);
 		System.out.println("O flamengo se ferrou");
+		System.out.println("o corinthians é o melhor time do mundo");
 		read.close();
 	}
 
